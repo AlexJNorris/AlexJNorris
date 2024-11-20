@@ -1,13 +1,13 @@
-## Hi there! 👋 I'm Alex Norris
+# Hi there! 👋 I'm Alex Norris
 
 🌟 Software Engineer | AI Enthusiast | Problem Solver
 
-# 💻 About Me
+## 💻 About Me
 
 I'm a passionate software engineer with a strong background in software development, testing, and automation. With experience in cutting-edge technologies like IoT, machine learning, and REST API development, I thrive on creating efficient and scalable solutions. I hold a B.Sc. in Computer Science with a focus on Artificial Intelligence and Software Engineering from the University of Missouri – Kansas City.
 
 When I'm not coding, you might find me tinkering with IoT devices or exploring robotics!
-# 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
     Programming Languages: Python, JavaScript, C#, Java, TypeScript
     Frameworks & Tools: Spring Boot, Selenium, Protractor, Cucumber, PyTest, TensorFlow, PyTorch
@@ -15,7 +15,7 @@ When I'm not coding, you might find me tinkering with IoT devices or exploring r
     Robotics & IoT: ArduPilot, PX4 Autopilot, Unity Game Engine, Unreal Engine, Digi XBee RF Modules
     Databases: SQL, Node.js (Back-End Development)
 
-# 📈 Work Experience
+## 📈 Work Experience
 FINRA – Software Development Engineer in Test
 
 April 2022 – December 2023
@@ -39,7 +39,7 @@ March 2021 – March 2022
     Developed offline networks and custom static IP configurations for Git repositories
     Explored autonomy and simulation for unmanned aerial systems defense
 
-# 🎓 Education
+## 🎓 Education
 
 Bachelor of Science in Computer Science
 University of Missouri – Kansas City | December 2021
@@ -47,12 +47,13 @@ University of Missouri – Kansas City | December 2021
     GPA: 3.625
     Focus: Artificial Intelligence and Software Engineering
 
-# 🏅 Certifications
+## 🏅 Certifications
 
     PCEP-30-01: Certified Entry-Level Python Programmer
     LC101: JavaScript & C# Web Development – LaunchCode
 
-# 🌐 Let's Connect!
+## 🌐 Let's Connect!
 
     🌍 Personal Website: alexjnorris.github.io
     📫 Email: a.norris97@icloud.com
+    LinkedIn: https://www.linkedin.com/in/alex-norris-09aa9510a/
